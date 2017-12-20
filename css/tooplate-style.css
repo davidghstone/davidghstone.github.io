@@ -157,14 +157,19 @@ p {
 	padding: 16% 0px;
 }
 
-.fourth-section .left-image img {
-	width: 100%;
+.fourth-section .right-image {
+	display: inline;
+}
+
+.fourth-section .right-image img {
+	max-width: 100%;
 	overflow: hidden;
 	text-align: center;
 }
 
-.fourth-section .right-text {
+.fourth-section .left-text {
 	display: inline;
+	text-align: right;
 }
 
 .fourth-section em {
@@ -186,6 +191,7 @@ p {
 	color: #fff;
 	margin-top: 15px;
 }
+
 
 
 /* ======================
