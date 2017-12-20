@@ -157,68 +157,34 @@ p {
 	padding: 16% 0px;
 }
 
-.fourth-section .col-md-3 {
-	padding-left: 0px;
-	padding-right: 0px;
-}
-
-.fourth-section .portfolio-item img {
+.fourth-section .left-image img {
 	width: 100%;
 	overflow: hidden;
-}
-
-.fourth-section .first-item .text {
-	background-color: #f4f4f4;
-}
-
-.fourth-section .second-item .text {
-	background-color: #eaeaea;
-}
-
-.fourth-section .third-item .text {
-	background-color: #dedede;
-}
-
-.fourth-section .portfolio-item .text {
-	padding: 20px 25px;
-}
-
-.fourth-section .portfolio-item .text span {
-	font-size: 13px;
-	color: #7a7a7a;
-}
-
-.fourth-section .portfolio-item .text h4 {
-	font-size: 17px;
-	color: #343434;
-	font-weight: 700;
-}
-
-.fourth-section .send-to-portfolio {
-	background-color: #415b90;
 	text-align: center;
-	padding:  46.7% 0px;
 }
 
-.fourth-section .send-to-portfolio span {
-	display: inline-block;
-	font-size: 13px;
+.fourth-section .right-text {
+	display: inline;
+}
+
+.fourth-section em {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+}
+
+.fourth-section h4 {
+	margin-top: 60px;
 	color: #fff;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
-.fourth-section .send-to-portfolio .primary-button {
-	margin-top: 20px;
-}
-
-.fourth-section .send-to-portfolio .primary-button a {
-	background-color: #fff;
-	color: #415b90;
-}
-
-.fourth-section .send-to-portfolio .primary-button a:hover {
-	background-color: #22304d;
+.fourth-section p {
 	color: #fff;
-	transition: all 0.3s;
+	margin-top: 15px;
 }
 
 
