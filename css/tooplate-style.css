@@ -227,26 +227,21 @@ p {
 =======================*/
 
 .fivth-section {
-	background-image: url(../img/fivth-section-bg.png);
+	background-image: url(../img/third-section-bg.png);
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
 	padding: 16% 0px;
 }
 
-.fivth-section .right-image {
-	display: inline;
-}
-
-.fivth-section .right-image img {
-	max-width: 100%;
+.fivth-section .left-image img {
+	width: 100%;
 	overflow: hidden;
 	text-align: center;
 }
 
-.fivth-section .left-text {
+.fivth-section .right-text {
 	display: inline;
-	text-align: right;
 }
 
 .fivth-section em {
