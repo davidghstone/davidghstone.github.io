@@ -1,1 +1,0 @@
-# davidghstone.github.io
