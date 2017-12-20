@@ -154,91 +154,72 @@ p {
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 20% 0px;
+	padding: 16% 0px;
 }
 
-.fourth-section .right-image {
-	display: inline;
+.fourth-section .col-md-3 {
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
-.fourth-section .right-image img {
-	max-width: 100%;
-	overflow: hidden;
-	text-align: center;
-}
-
-.fourth-section .left-text {
-	display: inline;
-	text-align: right;
-}
-
-.fourth-section em {
-	font-size: 18px;
-	font-style: normal;
-	font-weight: 300;
-}
-
-.fourth-section h4 {
-	margin-top: 60px;
-	color: #fff;
-	font-size: 24px;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-}
-
-.fourth-section p {
-	color: #fff;
-	margin-top: 15px;
-}
-
-/* ======================
------ test SECTION------
-=======================*/
-
-.test-section {
-	background-image: url(../img/fourth-section-bg.png);
-	background-size: cover;
+.fourth-section .portfolio-item img {
 	width: 100%;
-	background-repeat: no-repeat;
-	padding: 20% 0px;
-}
-
-.test-section .right-image {
-	display: inline;
-}
-
-.test-section .right-image img {
-	max-width: 100%;
 	overflow: hidden;
-	text-align: center;
 }
 
-.test-section .left-text {
-	display: inline;
-	text-align: right;
+.fourth-section .first-item .text {
+	background-color: #f4f4f4;
 }
 
-.test-section em {
-	font-size: 18px;
-	font-style: normal;
-	font-weight: 300;
+.fourth-section .second-item .text {
+	background-color: #eaeaea;
 }
 
-.test-section h4 {
-	margin-top: 60px;
-	color: #fff;
-	font-size: 24px;
+.fourth-section .third-item .text {
+	background-color: #dedede;
+}
+
+.fourth-section .portfolio-item .text {
+	padding: 20px 25px;
+}
+
+.fourth-section .portfolio-item .text span {
+	font-size: 13px;
+	color: #7a7a7a;
+}
+
+.fourth-section .portfolio-item .text h4 {
+	font-size: 17px;
+	color: #343434;
 	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 1px;
 }
 
-.test-section p {
+.fourth-section .send-to-portfolio {
+	background-color: #415b90;
+	text-align: center;
+	padding:  46.7% 0px;
+}
+
+.fourth-section .send-to-portfolio span {
+	display: inline-block;
+	font-size: 13px;
 	color: #fff;
-	margin-top: 15px;
 }
 
+.fourth-section .send-to-portfolio .primary-button {
+	margin-top: 20px;
+}
+
+.fourth-section .send-to-portfolio .primary-button a {
+	background-color: #fff;
+	color: #415b90;
+}
+
+.fourth-section .send-to-portfolio .primary-button a:hover {
+	background-color: #22304d;
+	color: #fff;
+	transition: all 0.3s;
+}
 
 
 /* ======================
