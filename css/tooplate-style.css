@@ -221,6 +221,40 @@ p {
 	transition: all 0.3s;
 }
 
+.fourth-section .right-image {
+	display: inline;
+}
+
+.fourth-section .right-image img {
+	max-width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
+.fourth-section .left-text {
+	display: inline;
+	text-align: right;
+}
+
+.fourth-section em {
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 300;
+}
+
+.fourth-section h4 {
+	margin-top: 60px;
+	color: #fff;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+.fourth-section p {
+	color: #fff;
+	margin-top: 15px;
+}
 
 /* ======================
 ----- FIVTH SECTION------
